@@ -1,0 +1,9 @@
+{
+  "address": "0x117820a67905555D4203d6915807D39921636b8D",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "DigitalValleyToken",
+  "compiler_version": "v0.4.19+commit.c4cbbb05",
+  "optimization_used": "1",
+  "runs": "200"
+}

@@ -1,0 +1,9 @@
+{
+  "address": "0x0156888F51d68F858AC88aBa45DF699e2af2E4Cc",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "VRToken",
+  "compiler_version": "v0.4.18+commit.9cf6e910",
+  "optimization_used": "1",
+  "runs": "200"
+}

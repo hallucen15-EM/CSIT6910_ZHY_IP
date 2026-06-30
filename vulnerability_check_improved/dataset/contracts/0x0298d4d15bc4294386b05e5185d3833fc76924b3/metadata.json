@@ -1,0 +1,9 @@
+{
+  "address": "0x0298d4D15bC4294386b05E5185D3833fC76924B3",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "MyDFSToken",
+  "compiler_version": "v0.4.18+commit.9cf6e910",
+  "optimization_used": "0",
+  "runs": "200"
+}

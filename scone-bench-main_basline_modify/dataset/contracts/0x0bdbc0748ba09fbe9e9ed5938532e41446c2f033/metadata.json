@@ -1,0 +1,9 @@
+{
+  "address": "0x0BDBc0748bA09fBE9e9ED5938532E41446c2f033",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "AssetToken",
+  "compiler_version": "v0.4.21+commit.dfe3193c",
+  "optimization_used": "0",
+  "runs": "200"
+}

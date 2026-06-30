@@ -1,0 +1,9 @@
+{
+  "address": "0x0763EA00a235DaDdFf3Ed5B0F03ff414577E0173",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "PalestinoToken",
+  "compiler_version": "v0.4.18+commit.9cf6e910",
+  "optimization_used": "0",
+  "runs": "200"
+}

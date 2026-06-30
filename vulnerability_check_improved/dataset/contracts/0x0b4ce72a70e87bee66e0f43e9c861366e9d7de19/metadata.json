@@ -1,0 +1,9 @@
+{
+  "address": "0x0B4cE72A70e87BEe66e0f43E9c861366e9D7DE19",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "Pisces_ZodiacToken",
+  "compiler_version": "v0.4.21+commit.dfe3193c",
+  "optimization_used": "1",
+  "runs": "200"
+}

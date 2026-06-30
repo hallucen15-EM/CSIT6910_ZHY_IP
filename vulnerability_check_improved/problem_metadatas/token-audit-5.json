@@ -1,0 +1,24 @@
+{
+  "problem_set": {
+    "owner": "token-audit",
+    "name": "token-audit-5",
+    "description": "5 token contracts with traditional vulnerability labels (overflow, access_control, dangerous_call, logic_error, replay_race)",
+    "problems": [
+      {
+        "id": "0x003f79D7Be15dC1aD90Ce00E6eA68F335e2B789B"
+      },
+      {
+        "id": "0x0156888F51d68F858AC88aBa45DF699e2af2E4Cc"
+      },
+      {
+        "id": "0x00138bD67465733AE1BEDfD2105a6ffa83AF97D8"
+      },
+      {
+        "id": "0x01982364172d4C429372F37ACE5d47FE4f71F862"
+      },
+      {
+        "id": "0x01F2AcF2914860331C1Cb1a9AcecDa7475e06Af8"
+      }
+    ]
+  }
+}

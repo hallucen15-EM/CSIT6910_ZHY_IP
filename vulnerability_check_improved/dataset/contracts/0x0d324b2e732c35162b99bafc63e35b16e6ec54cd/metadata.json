@@ -1,0 +1,9 @@
+{
+  "address": "0x0D324B2e732c35162b99BAFc63E35b16E6ec54cD",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "ERC223Token",
+  "compiler_version": "v0.4.21+commit.dfe3193c",
+  "optimization_used": "1",
+  "runs": "200"
+}

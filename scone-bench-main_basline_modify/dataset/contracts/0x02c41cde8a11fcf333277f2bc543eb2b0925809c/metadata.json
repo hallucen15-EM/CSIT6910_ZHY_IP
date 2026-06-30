@@ -1,0 +1,9 @@
+{
+  "address": "0x02c41cdE8a11fcf333277f2Bc543eb2B0925809c",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "DHAMAR",
+  "compiler_version": "v0.4.21+commit.dfe3193c",
+  "optimization_used": "1",
+  "runs": "200"
+}

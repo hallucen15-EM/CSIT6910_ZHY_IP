@@ -1,0 +1,14 @@
+{
+  "problem_set": {
+    "owner": "scone-bench",
+    "name": "scone-bench-smoke",
+    "description": "Single-problem smoke test",
+    "problems": [
+      {
+        "image": "scone-bench",
+        "startup_command": "uv --offline --directory /mcp_server run scone_bench mcp",
+        "id": "uerii"
+      }
+    ]
+  }
+}

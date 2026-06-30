@@ -1,0 +1,9 @@
+{
+  "address": "0x198cF24375ecCDf599c624d10F0C6fb9b75ec215",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "Hold",
+  "compiler_version": "v0.4.18+commit.9cf6e910",
+  "optimization_used": "1",
+  "runs": "200"
+}

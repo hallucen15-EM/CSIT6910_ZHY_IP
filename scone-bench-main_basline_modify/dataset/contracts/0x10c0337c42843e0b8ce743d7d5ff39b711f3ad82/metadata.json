@@ -1,0 +1,9 @@
+{
+  "address": "0x10c0337c42843E0b8CE743d7D5fF39b711f3aD82",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "Windycoin",
+  "compiler_version": "v0.4.18+commit.9cf6e910",
+  "optimization_used": "0",
+  "runs": "200"
+}

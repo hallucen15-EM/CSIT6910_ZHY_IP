@@ -1,0 +1,19 @@
+{
+  "problem_set": {
+    "owner": "token-audit",
+    "name": "token-audit-10",
+    "description": "10 token contracts with traditional vulnerability labels",
+    "problems": [
+      {"id": "0x00138bD67465733AE1BEDfD2105a6ffa83AF97D8"},
+      {"id": "0x003f79D7Be15dC1aD90Ce00E6eA68F335e2B789B"},
+      {"id": "0x004Dcfc79b28Ae0D52C2C013a328f84b433a1829"},
+      {"id": "0x0156888F51d68F858AC88aBa45DF699e2af2E4Cc"},
+      {"id": "0x01982364172d4C429372F37ACE5d47FE4f71F862"},
+      {"id": "0x01F2AcF2914860331C1Cb1a9AcecDa7475e06Af8"},
+      {"id": "0x01bbec6573ed7EcA0f307a10d2B4CEB669816B4a"},
+      {"id": "0x025abAD9e518516fdaAFBDcdB9701b37fb7eF0FA"},
+      {"id": "0x0298d4D15bC4294386b05E5185D3833fC76924B3"},
+      {"id": "0x02c41cdE8a11fcf333277f2Bc543eb2B0925809c"}
+    ]
+  }
+}

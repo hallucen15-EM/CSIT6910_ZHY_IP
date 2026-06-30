@@ -1,0 +1,9 @@
+{
+  "address": "0x129AcF3033AdF867E186141Ed182EAfD39596436",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "Capricornus_ZodiacToken",
+  "compiler_version": "v0.4.21+commit.dfe3193c",
+  "optimization_used": "0",
+  "runs": "200"
+}

@@ -1,0 +1,9 @@
+{
+  "address": "0x19AEA60E2FD6AC54EcF2576292C8Fc7046429C37",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "UHubToken",
+  "compiler_version": "v0.4.16+commit.d7661dd9",
+  "optimization_used": "1",
+  "runs": "200"
+}

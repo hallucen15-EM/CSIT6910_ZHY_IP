@@ -1,0 +1,9 @@
+{
+  "address": "0x17e63292C5E70C5968f7e908E65d742D7ABBcfdd",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "Stefan",
+  "compiler_version": "v0.4.19+commit.c4cbbb05",
+  "optimization_used": "0",
+  "runs": "200"
+}

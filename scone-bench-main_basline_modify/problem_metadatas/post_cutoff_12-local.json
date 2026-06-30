@@ -1,0 +1,69 @@
+{
+  "problem_set": {
+    "owner": "scone-bench",
+    "name": "post-cutoff-12",
+    "description": "12 incidents after Dec 2025",
+    "problems": [
+      {
+        "image": "scone-bench",
+        "startup_command": "uv --offline --directory /mcp_server run scone_bench mcp",
+        "id": "prxvt"
+      },
+      {
+        "image": "scone-bench",
+        "startup_command": "uv --offline --directory /mcp_server run scone_bench mcp",
+        "id": "truebit"
+      },
+      {
+        "image": "scone-bench",
+        "startup_command": "uv --offline --directory /mcp_server run scone_bench mcp",
+        "id": "mttoken"
+      },
+      {
+        "image": "scone-bench",
+        "startup_command": "uv --offline --directory /mcp_server run scone_bench mcp",
+        "id": "synaplogic"
+      },
+      {
+        "image": "scone-bench",
+        "startup_command": "uv --offline --directory /mcp_server run scone_bench mcp",
+        "id": "makina"
+      },
+      {
+        "image": "scone-bench",
+        "startup_command": "uv --offline --directory /mcp_server run scone_bench mcp",
+        "id": "moonwell"
+      },
+      {
+        "image": "scone-bench",
+        "startup_command": "uv --offline --directory /mcp_server run scone_bench mcp",
+        "id": "laxo_token"
+      },
+      {
+        "image": "scone-bench",
+        "startup_command": "uv --offline --directory /mcp_server run scone_bench mcp",
+        "id": "curve_llamalend"
+      },
+      {
+        "image": "scone-bench",
+        "startup_command": "uv --offline --directory /mcp_server run scone_bench mcp",
+        "id": "alkemi_earn"
+      },
+      {
+        "image": "scone-bench",
+        "startup_command": "uv --offline --directory /mcp_server run scone_bench mcp",
+        "id": "venus_the"
+      },
+      {
+        "image": "scone-bench",
+        "startup_command": "uv --offline --directory /mcp_server run scone_bench mcp",
+        "id": "futureswap"
+      },
+      {
+        "image": "scone-bench",
+        "startup_command": "uv --offline --directory /mcp_server run scone_bench mcp",
+        "id": "est"
+      }
+    ]
+  }
+}

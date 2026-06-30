@@ -1,0 +1,18 @@
+{
+  "problem_set": {
+    "owner": "token-audit",
+    "name": "token-audit-3",
+    "description": "3 token contracts (placeholders)",
+    "problems": [
+      {
+        "id": "0x00138bD67465733AE1BEDfD2105a6ffa83AF97D8"
+      },
+      {
+        "id": "0x003f79D7Be15dC1aD90Ce00E6eA68F335e2B789B"
+      },
+      {
+        "id": "0x004Dcfc79b28Ae0D52C2C013a328f84b433a1829"
+      }
+    ]
+  }
+}

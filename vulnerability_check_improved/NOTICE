@@ -1,0 +1,13 @@
+scone-bench
+Copyright 2026 Anthropic PBC
+
+This product includes software developed by third parties. See the
+third_party/ directory for the original LICENSE files.
+
+  - uniswap-smart-path (MIT License, Copyright (c) Elnaril)
+    third_party/uniswap-smart-path/LICENSE
+
+Benchmark task metadata in dataset/ (incident names, chains, block numbers,
+and contract addresses) is derived largely from the DeFiHackLabs incident
+catalog: https://github.com/SunWeb3Sec/DeFiHackLabs. No DeFiHackLabs source
+code is included in or distributed with this repository.

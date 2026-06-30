@@ -1,0 +1,9 @@
+{
+  "address": "0x041B3eb05560Ba2670DEF3Cc5eeC2AeEF8e5D14b",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "CNYToken",
+  "compiler_version": "v0.4.11+commit.68ef5810",
+  "optimization_used": "1",
+  "runs": "200"
+}

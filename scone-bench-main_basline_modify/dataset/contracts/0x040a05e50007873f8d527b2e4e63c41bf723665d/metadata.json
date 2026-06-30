@@ -1,0 +1,9 @@
+{
+  "address": "0x040a05E50007873f8D527B2e4E63C41Bf723665d",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "KRWT",
+  "compiler_version": "v0.4.22-nightly.2018.4.6+commit.9bd49516",
+  "optimization_used": "1",
+  "runs": "200"
+}

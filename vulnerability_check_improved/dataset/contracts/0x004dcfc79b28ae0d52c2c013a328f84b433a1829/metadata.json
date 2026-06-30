@@ -1,0 +1,9 @@
+{
+  "address": "0x004Dcfc79b28Ae0D52C2C013a328f84b433a1829",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "GreenXToken",
+  "compiler_version": "v0.4.21+commit.dfe3193c",
+  "optimization_used": "0",
+  "runs": "200"
+}

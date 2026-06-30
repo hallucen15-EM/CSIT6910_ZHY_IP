@@ -1,0 +1,9 @@
+{
+  "address": "0x066420fF2aF331b3F7c1a5925121e068c69614dF",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "Aquarius_ZodiacToken",
+  "compiler_version": "v0.4.21+commit.dfe3193c",
+  "optimization_used": "1",
+  "runs": "200"
+}

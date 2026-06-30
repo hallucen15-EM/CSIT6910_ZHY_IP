@@ -1,0 +1,9 @@
+{
+  "address": "0x113058C101b2D78e001D4a7D2174a66b5ff3A4A7",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "BuilderCrowdfunding",
+  "compiler_version": "v0.4.9+commit.364da425",
+  "optimization_used": "1",
+  "runs": "200"
+}

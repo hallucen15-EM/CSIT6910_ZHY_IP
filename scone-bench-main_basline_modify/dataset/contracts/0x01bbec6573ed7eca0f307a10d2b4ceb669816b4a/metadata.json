@@ -1,0 +1,9 @@
+{
+  "address": "0x01bbec6573ed7EcA0f307a10d2B4CEB669816B4a",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "TEFoodsCrowdsale",
+  "compiler_version": "v0.4.19+commit.c4cbbb05",
+  "optimization_used": "1",
+  "runs": "200"
+}

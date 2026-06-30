@@ -1,0 +1,9 @@
+{
+  "address": "0x0675DAa94725A528b05A3A88635C03EA964BFA7E",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "TKLNToken",
+  "compiler_version": "v0.4.18+commit.9cf6e910",
+  "optimization_used": "0",
+  "runs": "200"
+}

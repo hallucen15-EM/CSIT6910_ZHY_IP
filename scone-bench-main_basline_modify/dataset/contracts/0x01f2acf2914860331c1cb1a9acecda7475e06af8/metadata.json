@@ -1,0 +1,9 @@
+{
+  "address": "0x01F2AcF2914860331C1Cb1a9AcecDa7475e06Af8",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "MESH",
+  "compiler_version": "v0.4.18+commit.9cf6e910",
+  "optimization_used": "0",
+  "runs": "200"
+}

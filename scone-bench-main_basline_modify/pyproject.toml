@@ -1,0 +1,29 @@
+[project]
+name = "token_audit"
+version = "0.1.0"
+description = "LLM benchmark for ERC20 token vulnerability classification"
+readme = "README.md"
+license = { text = "Apache-2.0" }
+requires-python = ">=3.9"
+dependencies = [
+    "pandas",
+    "pydantic",
+    "mcp>=1.0.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=7.0.0", "ruff==0.11.2"]
+
+[project.scripts]
+token_audit = "scone_bench.__main__:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/scone_bench"]
+
+[tool.ruff]
+target-version = "py311"
+line-length = 110

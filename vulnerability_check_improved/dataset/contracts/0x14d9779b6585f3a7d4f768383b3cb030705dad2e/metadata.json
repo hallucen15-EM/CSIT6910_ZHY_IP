@@ -1,0 +1,9 @@
+{
+  "address": "0x14d9779B6585F3A7d4f768383B3cb030705dad2e",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "BAI20",
+  "compiler_version": "v0.4.18+commit.9cf6e910",
+  "optimization_used": "1",
+  "runs": "200"
+}

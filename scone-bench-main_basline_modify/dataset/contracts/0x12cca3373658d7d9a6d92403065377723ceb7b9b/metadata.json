@@ -1,0 +1,9 @@
+{
+  "address": "0x12CCA3373658D7D9a6d92403065377723ceB7B9b",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "Taurus_ZodiacToken",
+  "compiler_version": "v0.4.21+commit.dfe3193c",
+  "optimization_used": "1",
+  "runs": "200"
+}

@@ -1,0 +1,9 @@
+{
+  "address": "0x17CBA58578eecAEE898242a02eDac75b8CC17231",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "AUMXToken",
+  "compiler_version": "v0.4.20+commit.3155dd80",
+  "optimization_used": "0",
+  "runs": "200"
+}

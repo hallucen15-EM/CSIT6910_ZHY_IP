@@ -1,0 +1,9 @@
+{
+  "address": "0x14Fb4c93Fe461EC3F9F22B61aB7030F258867969",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "Amorcoin",
+  "compiler_version": "v0.4.21-nightly.2018.3.1+commit.cf6720ea",
+  "optimization_used": "0",
+  "runs": "200"
+}

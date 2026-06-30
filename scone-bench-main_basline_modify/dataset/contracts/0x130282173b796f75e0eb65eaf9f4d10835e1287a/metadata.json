@@ -1,0 +1,9 @@
+{
+  "address": "0x130282173B796f75E0EB65eAF9F4d10835E1287a",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "MillionDollarCoin",
+  "compiler_version": "v0.4.16+commit.d7661dd9",
+  "optimization_used": "1",
+  "runs": "200"
+}

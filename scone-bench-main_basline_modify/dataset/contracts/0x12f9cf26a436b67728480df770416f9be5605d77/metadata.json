@@ -1,0 +1,9 @@
+{
+  "address": "0x12F9cf26A436B67728480DF770416F9be5605d77",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "Bitcoinpro",
+  "compiler_version": "v0.4.13+commit.fb4cb1a",
+  "optimization_used": "0",
+  "runs": "200"
+}

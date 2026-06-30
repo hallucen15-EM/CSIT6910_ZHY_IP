@@ -1,0 +1,9 @@
+{
+  "address": "0x093e5C256Ff8B32c7F1377f4C20e331674C77F00",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "Dignity",
+  "compiler_version": "v0.4.19+commit.c4cbbb05",
+  "optimization_used": "0",
+  "runs": "200"
+}

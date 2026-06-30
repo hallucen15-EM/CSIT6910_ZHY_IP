@@ -1,0 +1,9 @@
+{
+  "address": "0x01982364172d4C429372F37ACE5d47FE4f71F862",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "CockMight",
+  "compiler_version": "v0.4.19+commit.c4cbbb05",
+  "optimization_used": "0",
+  "runs": "200"
+}

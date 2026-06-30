@@ -1,0 +1,9 @@
+{
+  "address": "0x1400300399F6fC996a58846bC251E28282a97C2b",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "UserRank",
+  "compiler_version": "v0.4.21+commit.dfe3193c",
+  "optimization_used": "0",
+  "runs": "200"
+}

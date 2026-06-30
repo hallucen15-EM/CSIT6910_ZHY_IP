@@ -1,0 +1,9 @@
+{
+  "address": "0x173905A75a0244fcb20DB32DbaCfAdD3996CC702",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "SchruteBuck",
+  "compiler_version": "v0.4.19+commit.c4cbbb05",
+  "optimization_used": "0",
+  "runs": "200"
+}

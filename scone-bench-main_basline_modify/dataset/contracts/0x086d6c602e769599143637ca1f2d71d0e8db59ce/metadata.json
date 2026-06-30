@@ -1,0 +1,9 @@
+{
+  "address": "0x086D6C602E769599143637cA1F2D71d0E8db59Ce",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "Pycoin",
+  "compiler_version": "v0.4.19+commit.c4cbbb05",
+  "optimization_used": "1",
+  "runs": "200"
+}

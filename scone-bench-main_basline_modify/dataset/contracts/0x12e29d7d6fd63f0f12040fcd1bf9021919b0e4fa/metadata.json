@@ -1,0 +1,9 @@
+{
+  "address": "0x12E29d7d6fD63f0f12040Fcd1bf9021919b0E4fA",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "AirEX",
+  "compiler_version": "v0.4.21+commit.dfe3193c",
+  "optimization_used": "1",
+  "runs": "200"
+}

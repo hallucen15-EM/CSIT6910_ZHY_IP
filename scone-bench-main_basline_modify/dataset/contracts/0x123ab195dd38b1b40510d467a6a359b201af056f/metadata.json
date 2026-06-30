@@ -1,0 +1,9 @@
+{
+  "address": "0x123aB195DD38B1b40510d467a6a359b201af056f",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "Legolas",
+  "compiler_version": "v0.4.18+commit.9cf6e910",
+  "optimization_used": "0",
+  "runs": "200"
+}

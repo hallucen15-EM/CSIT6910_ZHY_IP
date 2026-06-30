@@ -1,0 +1,9 @@
+{
+  "address": "0x0D6f4cef46F23877A930C2d782cc275C978bC1eE",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "PlatoToken",
+  "compiler_version": "v0.4.13+commit.fb4cb1a",
+  "optimization_used": "1",
+  "runs": "20"
+}

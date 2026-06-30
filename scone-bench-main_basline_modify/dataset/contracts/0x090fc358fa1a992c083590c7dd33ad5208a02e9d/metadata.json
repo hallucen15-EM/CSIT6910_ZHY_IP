@@ -1,0 +1,9 @@
+{
+  "address": "0x090fC358FA1a992C083590c7dd33Ad5208A02e9d",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "MtcToken",
+  "compiler_version": "v0.4.19+commit.c4cbbb05",
+  "optimization_used": "0",
+  "runs": "200"
+}

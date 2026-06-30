@@ -1,0 +1,9 @@
+{
+  "address": "0x003f79D7Be15dC1aD90Ce00E6eA68F335e2B789B",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "TzTToken",
+  "compiler_version": "v0.4.18+commit.9cf6e910",
+  "optimization_used": "0",
+  "runs": "200"
+}

@@ -1,0 +1,9 @@
+{
+  "address": "0x06308B924dC8Fe805BD28d3170B7c8b9909E4EBa",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "TUPC",
+  "compiler_version": "v0.4.19+commit.c4cbbb05",
+  "optimization_used": "0",
+  "runs": "200"
+}
