@@ -1,0 +1,9 @@
+{
+  "address": "0x3139aD55aa700E449A0AC6eC55972A7391Aa35ce",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "ShittyToken",
+  "compiler_version": "v0.4.19+commit.c4cbbb05",
+  "optimization_used": "1",
+  "runs": "200"
+}

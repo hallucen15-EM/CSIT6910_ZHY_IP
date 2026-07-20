@@ -1,0 +1,9 @@
+{
+  "address": "0x23B81010b25645A25a8cFEfCDbaaBF841d2c9B9b",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "GVE",
+  "compiler_version": "v0.4.17-nightly.2017.8.24+commit.12d9f79",
+  "optimization_used": "0",
+  "runs": "200"
+}

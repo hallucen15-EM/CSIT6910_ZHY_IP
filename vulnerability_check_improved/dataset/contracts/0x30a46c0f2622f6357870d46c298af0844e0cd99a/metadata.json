@@ -1,0 +1,9 @@
+{
+  "address": "0x30a46C0f2622f6357870D46C298af0844e0Cd99a",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "BuilderTokenEther",
+  "compiler_version": "v0.4.4+commit.4633f3de",
+  "optimization_used": "1",
+  "runs": "200"
+}

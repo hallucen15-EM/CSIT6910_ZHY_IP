@@ -1,0 +1,9 @@
+{
+  "address": "0x36b0aBFa331cAF85EAD376B59FeA780bc20BB593",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "Presale",
+  "compiler_version": "v0.4.19+commit.c4cbbb05",
+  "optimization_used": "1",
+  "runs": "200"
+}

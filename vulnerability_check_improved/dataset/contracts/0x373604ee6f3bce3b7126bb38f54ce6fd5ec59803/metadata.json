@@ -1,0 +1,9 @@
+{
+  "address": "0x373604ee6f3bCE3b7126BB38f54CE6fD5eC59803",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "Clip",
+  "compiler_version": "v0.4.21+commit.dfe3193c",
+  "optimization_used": "0",
+  "runs": "200"
+}

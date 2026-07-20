@@ -1,0 +1,9 @@
+{
+  "address": "0x3a4087FC4309DCBf04770506Ea45788BB0BFDa65",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "Aries_ZodiacToken",
+  "compiler_version": "v0.4.21+commit.dfe3193c",
+  "optimization_used": "0",
+  "runs": "200"
+}

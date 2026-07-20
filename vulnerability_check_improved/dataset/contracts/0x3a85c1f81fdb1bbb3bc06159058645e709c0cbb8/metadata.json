@@ -1,0 +1,9 @@
+{
+  "address": "0x3a85C1f81fDB1BBb3bC06159058645E709c0cbB8",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "Token",
+  "compiler_version": "v0.4.18+commit.9cf6e910",
+  "optimization_used": "1",
+  "runs": "200"
+}

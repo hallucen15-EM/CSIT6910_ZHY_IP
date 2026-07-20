@@ -1,0 +1,9 @@
+{
+  "address": "0x1Da1BcfBE6c073d1b5f77F5fA57375D79D6a0Ff3",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "PowH3DUniverse",
+  "compiler_version": "v0.4.21+commit.dfe3193c",
+  "optimization_used": "0",
+  "runs": "200"
+}

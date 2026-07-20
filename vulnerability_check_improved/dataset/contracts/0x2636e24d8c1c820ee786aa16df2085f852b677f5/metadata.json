@@ -1,0 +1,9 @@
+{
+  "address": "0x2636E24D8c1c820eE786aA16Df2085f852b677f5",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "CosmosToken",
+  "compiler_version": "v0.4.11+commit.68ef5810",
+  "optimization_used": "1",
+  "runs": "200"
+}

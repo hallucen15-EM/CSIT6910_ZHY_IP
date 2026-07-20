@@ -1,0 +1,9 @@
+{
+  "address": "0x3460f675d521b4c673D437E6525164E2c189DD49",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "BTCoE",
+  "compiler_version": "v0.4.18+commit.9cf6e910",
+  "optimization_used": "1",
+  "runs": "200"
+}

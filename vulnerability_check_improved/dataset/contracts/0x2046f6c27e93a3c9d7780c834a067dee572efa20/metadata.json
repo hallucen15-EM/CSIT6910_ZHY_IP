@@ -1,0 +1,9 @@
+{
+  "address": "0x2046f6C27E93a3c9D7780c834A067deE572EFa20",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "ScatCoin",
+  "compiler_version": "v0.4.19-nightly.2017.10.18+commit.f7ca2421",
+  "optimization_used": "1",
+  "runs": "200"
+}

@@ -1,0 +1,9 @@
+{
+  "address": "0x3A302f4332c3dd4E5f9E04Df745a68CdbDe8C8bE",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "vangatoken",
+  "compiler_version": "v0.4.18+commit.9cf6e910",
+  "optimization_used": "0",
+  "runs": "200"
+}
