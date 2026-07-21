@@ -1,0 +1,9 @@
+{
+  "address": "0x1b5ED05690A6B04533F09185AFE03Ff2371835C2",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "RainbowUnicoin",
+  "compiler_version": "v0.4.19+commit.c4cbbb05",
+  "optimization_used": "0",
+  "runs": "200"
+}

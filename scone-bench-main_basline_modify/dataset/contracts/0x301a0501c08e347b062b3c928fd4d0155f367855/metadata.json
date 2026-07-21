@@ -1,0 +1,9 @@
+{
+  "address": "0x301A0501c08E347B062B3c928FD4d0155F367855",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "WePowerToken",
+  "compiler_version": "v0.4.19+commit.c4cbbb05",
+  "optimization_used": "1",
+  "runs": "200"
+}

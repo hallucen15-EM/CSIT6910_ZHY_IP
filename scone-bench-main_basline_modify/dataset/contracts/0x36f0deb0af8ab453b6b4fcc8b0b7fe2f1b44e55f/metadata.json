@@ -1,0 +1,9 @@
+{
+  "address": "0x36F0dEB0AF8ab453b6B4FCc8B0b7Fe2f1b44E55F",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "INZEI",
+  "compiler_version": "v0.4.19+commit.c4cbbb05",
+  "optimization_used": "0",
+  "runs": "200"
+}

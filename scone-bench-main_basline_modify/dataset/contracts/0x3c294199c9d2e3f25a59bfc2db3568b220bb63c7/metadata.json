@@ -1,0 +1,9 @@
+{
+  "address": "0x3c294199C9d2E3f25A59bfc2DB3568b220Bb63c7",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "Zeinun",
+  "compiler_version": "v0.4.21+commit.dfe3193c",
+  "optimization_used": "1",
+  "runs": "200"
+}

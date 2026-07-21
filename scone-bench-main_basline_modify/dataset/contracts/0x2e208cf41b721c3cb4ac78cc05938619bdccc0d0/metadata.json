@@ -1,0 +1,9 @@
+{
+  "address": "0x2e208Cf41b721C3Cb4Ac78CC05938619bdcCc0d0",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "protoLEXToken",
+  "compiler_version": "v0.4.20+commit.3155dd80",
+  "optimization_used": "0",
+  "runs": "200"
+}

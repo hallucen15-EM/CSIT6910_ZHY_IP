@@ -1,0 +1,9 @@
+{
+  "address": "0x3686986e559f257CfAccB44F17af5b245E45814F",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "ZEROtoken",
+  "compiler_version": "v0.4.12+commit.194ff033",
+  "optimization_used": "1",
+  "runs": "200"
+}

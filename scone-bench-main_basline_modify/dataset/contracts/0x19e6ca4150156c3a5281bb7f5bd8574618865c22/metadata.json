@@ -1,0 +1,9 @@
+{
+  "address": "0x19e6cA4150156c3A5281bb7F5BD8574618865C22",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "VilijavisShares",
+  "compiler_version": "v0.4.11+commit.68ef5810",
+  "optimization_used": "1",
+  "runs": "200"
+}

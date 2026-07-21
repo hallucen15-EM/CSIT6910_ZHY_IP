@@ -1,0 +1,9 @@
+{
+  "address": "0x38d1B0D157529Bd5D936719A8a5F8379aFB24fAA",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "DataKYC",
+  "compiler_version": "v0.4.16+commit.d7661dd9",
+  "optimization_used": "0",
+  "runs": "200"
+}

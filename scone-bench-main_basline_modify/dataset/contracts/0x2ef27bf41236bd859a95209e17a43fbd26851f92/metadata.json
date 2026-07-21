@@ -1,0 +1,9 @@
+{
+  "address": "0x2Ef27BF41236bD859a95209e17a43Fbd26851f92",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "MorphToken",
+  "compiler_version": "v0.4.18+commit.9cf6e910",
+  "optimization_used": "0",
+  "runs": "200"
+}

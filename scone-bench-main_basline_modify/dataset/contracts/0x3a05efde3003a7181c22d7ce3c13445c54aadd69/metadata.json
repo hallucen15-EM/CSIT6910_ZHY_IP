@@ -1,0 +1,9 @@
+{
+  "address": "0x3A05efDe3003a7181c22D7CE3c13445C54aaDD69",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "QuintessenceToken",
+  "compiler_version": "v0.4.21+commit.dfe3193c",
+  "optimization_used": "1",
+  "runs": "200"
+}

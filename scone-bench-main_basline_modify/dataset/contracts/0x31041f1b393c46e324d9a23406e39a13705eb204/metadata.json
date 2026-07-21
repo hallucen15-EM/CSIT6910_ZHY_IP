@@ -1,0 +1,9 @@
+{
+  "address": "0x31041F1b393C46E324d9A23406E39A13705eb204",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "TGCToken",
+  "compiler_version": "v0.4.18+commit.9cf6e910",
+  "optimization_used": "0",
+  "runs": "200"
+}

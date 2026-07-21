@@ -1,0 +1,9 @@
+{
+  "address": "0x32CEb540334300bCD53836a25a4bd64D607BaBD8",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "BetGame",
+  "compiler_version": "v0.4.17+commit.bdeb9e52",
+  "optimization_used": "1",
+  "runs": "200"
+}

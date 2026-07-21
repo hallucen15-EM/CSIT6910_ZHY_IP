@@ -1,0 +1,9 @@
+{
+  "address": "0x22d982a8B875Cc0f8994cd8a4a70872161fdc000",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "GizerTokenPresale",
+  "compiler_version": "v0.4.17+commit.bdeb9e52",
+  "optimization_used": "1",
+  "runs": "200"
+}

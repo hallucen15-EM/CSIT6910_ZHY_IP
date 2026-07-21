@@ -1,0 +1,9 @@
+{
+  "address": "0x212dbc29bD9B67a6F6231a8DcA2640BD9636639A",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "RESToken",
+  "compiler_version": "v0.4.20-nightly.2018.1.29+commit.a668b9de",
+  "optimization_used": "1",
+  "runs": "200"
+}

@@ -1,0 +1,9 @@
+{
+  "address": "0x200ceF00486dcF58E6Cd4Cb68F155f6A0a58E129",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "CCTHCoin",
+  "compiler_version": "v0.4.19+commit.c4cbbb05",
+  "optimization_used": "0",
+  "runs": "200"
+}

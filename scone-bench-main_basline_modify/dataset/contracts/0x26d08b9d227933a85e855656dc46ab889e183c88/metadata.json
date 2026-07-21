@@ -1,0 +1,9 @@
+{
+  "address": "0x26D08B9d227933A85e855656DC46aB889E183C88",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "PlaykeyICO",
+  "compiler_version": "v0.4.15+commit.bbb8e64f",
+  "optimization_used": "0",
+  "runs": "200"
+}

@@ -1,0 +1,9 @@
+{
+  "address": "0x2066a2E0cd7f19589f582E2FC9Af9669Cc9e02F1",
+  "chain_name": "mainnet",
+  "chain_id": 1,
+  "contract_name": "SetherToken",
+  "compiler_version": "v0.4.19+commit.c4cbbb05",
+  "optimization_used": "1",
+  "runs": "200"
+}
